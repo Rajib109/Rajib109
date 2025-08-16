@@ -1,7 +1,7 @@
 ## Hi there 👋 
 <p align="justify">
 Welcome to my GitHub Page!  
-I am a 2nd Year Undergraduate Student passionate about learning, building, and exploring new technologies 🚀
+I am a 3rd Year Undergraduate Student passionate about learning, building, and exploring new technologies 🚀
 </p>
 
 ---
