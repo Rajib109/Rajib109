@@ -66,6 +66,4 @@ I am a 3rd Year Undergraduate Student passionate about learning, building, and e
 
 ---
 
-<img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="600" />
-
 ⭐ *“Keep building, keep learning.”*  
